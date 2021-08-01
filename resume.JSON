@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "NARESH KARELA",
+    "picture": "https://nikku.tech/photos/profile.jpg",
+    "email": "2018KUCP1124@iiitkota.ac.in",
+    "phone": "6375009493",
+    "website": "https://nikku.tech",
+    "summary": "Looking for a challenging role at a reputed organization to utilize my skills that can contribute to the company's growth as well as enchance my knowledge and experience.",
+    "location": {
+      "address": "52, Karela Bass, Mundra, Sujangarh",
+      "postalCode": "331518",
+      "city": "Churu",
+      "region": "Rajasthan",
+      "countryCode": "India"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "Naresh21061999",
+        "url": "https://github.com/Naresh21061999"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "naresh-karela",
+        "url": "https://www.linkedin.com/in/naresh-karela"
+      },
+      {
+        "network": "Twitter",
+        "username": "naresh_karela",
+        "url": "https://twitter.com/naresh_karela/"
+      },
+      {
+        "network": "Instagram",
+        "username": "naresh.nikku",
+        "url": "https://instagram.com/naresh.nikku"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Marudhar Vidhya Mandir, Mundra",
+      "studyType": "Matriculation",
+      "startDate": "2014-06-15",
+      "endDate": "2015-03-15",
+      "score": "81.33%",
+      "courses": [
+        "Maths",
+        "Science",
+        "English"
+      ]
+    },
+    {
+      "institution": "Subodh Senior Secondary School, Kanuta",
+      "studyType": "Intermediate/+2",
+      "startDate": "2016-06-01",
+      "endDate": "2017-04-30",
+      "score": "88.8-%",
+      "courses": [
+        "Physics",
+        "Chemestry",
+        "Mathematics"
+      ]
+    },
+    {
+      "institution": "Indian Institute of Information Technology,Kota",
+      "studyType": "B.Tech (hons.)",
+      "startDate": "2018-07-15",
+      "endDate": "2022-07-15",
+      "gpa": "6.85",
+      "courses": [
+        "Computer Science & Engineering"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Laptop",
+      "awarder": "Govt. of Rajasthan",
+      "date": "2013-06-10"
+    }
+  ],
+  "publications": [
+    {
+      "title": "A Machine learning approach for speech to emotion recognition",
+      "details": "",
+      "link": "https://github.com/Naresh21061999/SpeechToEmotionRecognition"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "C/C++",
+        "Javascript",
+        "HTML",
+        "ReactJS",
+        "Java"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "General",
+      "keywords": [
+        "Music",
+        "Badminton"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Speech To Emotion Recognition",
+      "description": "In this projects we used convolutional neural networks(CNN) for recognising emotional state of any speech signal.",
+      "highlights": [
+        "Feature Extraction Techniques and Training the Model"
+      ],
+      "keywords": [
+        "MFCC",
+        "CNN",
+        "Librosa",
+        "Feature Extraction"
+      ],
+      "startDate": "2021-03-10",
+      "endDate": "2021-07-31",
+      "url": "https://github.com/Naresh2106199/SpeechToEmotionRecognition/",
+      "roles": [
+        "Team Lead"
+      ],
+      "type": "application"
+    }
+  ],
+  "references": []
+}
